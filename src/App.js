@@ -9,6 +9,8 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Welcome to Bootcamp 2020 React Application Development After Deployement!
+          <br/>
+          Updated by Ahmed Raza
         </p>
         <a
           className="App-link"
