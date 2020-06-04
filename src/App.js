@@ -11,6 +11,8 @@ function App() {
           Welcome to Bootcamp 2020 React Application Development After Deployement!
           <br/>
           Updated by Ahmed Raza
+          <br/>
+          Updated by Sharik Husnain
         </p>
         <a
           className="App-link"
