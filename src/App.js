@@ -8,9 +8,9 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Welcome to Bootcamp React Application Development (2020) !
+          Welcome To Bootcamp React Application Development (2020) !
           <br/>
-          Developed by Ahmed Raza Mustafa Dani
+          Developed By Ahmed Raza Mustafa (Dani) !
         </p>
         <a
           className="App-link"
